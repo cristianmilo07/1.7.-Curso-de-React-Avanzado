@@ -1,0 +1,10 @@
+Lecturas recomendadas
+
+Can I use... Support tables for HTML5, CSS3, etc
+
+https://caniuse.com/#search=intersection%20observer
+
+
+IntersectionObserver/polyfill at master · w3c/IntersectionObserver · GitHub
+
+https://github.com/w3c/IntersectionObserver/tree/master/polyfill

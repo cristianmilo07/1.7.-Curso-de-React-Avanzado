@@ -1,0 +1,3 @@
+Vamos a construir nuestro primer componente el cual será  y usaremos styled-components para hacer los estilos de nuestro proyecto.
+
+Para que el código del styled-component esté mejor formateado en nuestro editor utilizaremos esta extensión vscode-styled-components.

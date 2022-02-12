@@ -1,0 +1,63 @@
+Antes la forma en la que construíamos nuestras aplicaciones era con HTML-centric:
+
+<button className='button button-red'>
+	Click here!
+button>
+const button = document.querySelector('button')
+button.addEventListener('click', function () {
+	doSomething()
+})
+.button {
+	border-radius: 4px;
+}
+
+.button-red {
+	background: red;
+	color: #fff;
+}
+Luego pasamos a JavaScript-centric:
+
+render () {
+	return (
+		<button
+			className='button button-red'
+			onClick={doSomething}
+		>
+			Click here!
+		button>
+	)
+}
+.button {
+	border-radius: 4px;
+}
+
+.button-red {
+	background: red;
+	color: #fff;
+}
+Ahora hoy en día pasamos a CSS-in-JS nos permite no solo hacer el jsx si no colocar los estilos en el mismo JavaScript, de la siguiente manera:
+
+const Button = styled.button`
+	border-radius: 4px;
+	${props => props.accent && `
+		background: red;
+		color: #fff;
+	`}
+
+
+render () {
+	return (
+		
+			Click here!
+		
+	)
+}
+Con CSS-in-JS no debemos preocuparnos por tener dos clases igual, no nos debemos preocupar por el Critical Path CSS, tendremos un CSS mucho más óptimo.
+
+En esta clase utilizaremos styled-components el cual es una biblioteca para CSS-in-JS pensada más que todo para React
+
+Lecturas recomendadas
+
+styled-components
+
+https://www.styled-components.com/

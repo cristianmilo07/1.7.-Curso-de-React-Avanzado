@@ -1,0 +1,13 @@
+Zeit es ahora Vercel
+Como bien sabemos, Zeit pasó a llamarse Vercel:
+
+Captura de Pantalla 2020-07-08 a la(s) 11.21.48.png
+Link: Vercel
+
+Y esto trajo algunos cambios.
+
+En la próxima clase verás que el profesor realiza el deploy con Now, entonces cada vez que el profesor mencione “now.json” deberías reemplazarlo por “vercel.json”, de la misma manera, en la terminal se debería utilizar la palabra vercel.
+
+Ante cualquier duda, aquí está la documentación de Vercel para que puedas orientarte.
+
+De todas maneras, cualquier duda que tengas, puedes escribirla en el sistema de comentarios y con gusto te ayudaremos.
