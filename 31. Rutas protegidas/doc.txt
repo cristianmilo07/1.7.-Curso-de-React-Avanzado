@@ -1,0 +1,1 @@
+Con el método render props realizaremos rutas de autenticación para saber si el usuario ha iniciado sesión o no y podremos mostrar contenido dependiendo de las props que le estemos pasando.
