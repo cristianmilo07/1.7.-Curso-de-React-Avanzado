@@ -1,0 +1,12 @@
+Vamos a usar cypress para hacer testing de nuestra aplicación. Hacer testing es imprescindible en nuestras aplicaciones para corroborar que todo está funcionando y mandar los datos a producción.
+
+Lecturas recomendadas
+
+JavaScript End to End Testing Framework | cypress.io
+
+https://www.cypress.io/
+
+
+Curso de End to End Testing con Cypress
+
+https://platzi.com/cursos/testing-cypress/
