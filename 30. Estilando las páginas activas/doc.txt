@@ -1,0 +1,1 @@
+Reach Router nos agrega un atributo aria-current="page" en la página que esté activa en ese momento para que podamos estilarla, agregarle algún tipo de funcionamiento o decirle al usuario en donde se encuentra.

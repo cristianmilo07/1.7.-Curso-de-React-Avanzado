@@ -1,0 +1,9 @@
+En esta clase utilizaremos el componente Link para hacer que nuestros enlaces no hagan que la página se recargue y funcione como una Single Page Application. Recuerda siempre que puedas utilizar Link en lugar de a para tener una mejor experiencia de usuario y que no recargue la página.
+
+En esta clase utilizaremos el componente Link para hacer que nuestros enlaces no hagan que la página se recargue y funcione como una Single Page Application. Recuerda siempre que puedas utilizar Link en lugar de a para tener una mejor experiencia de usuario y que no recargue la página.
+
+Lecturas recomendadas
+
+Reach Router: Next Generation Routing for React
+
+https://reach.tech/router/tutorial/03-link

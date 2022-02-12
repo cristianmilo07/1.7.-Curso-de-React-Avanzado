@@ -1,0 +1,13 @@
+Reach Router es una potente librería de enrutamiento para React. Te permite construir un único componente que puede renderizar diferentes componentes de UI para diferentes rutas. Es una versión simplificada y mejor optimizada de React Router.
+
+Su creador es Ryan Florence, el mismo creador de React Router. Se anunció que a partir de la versión V6 de React Router, Reach Router y React Router volverán a unirse en un mismo proyecto.
+
+Ventajas de Reach Router
+Reach Router es una poderosa biblioteca de enrutamiento. Proporciona un único componente que puede renderizar diferentes componentes de interfaz de usuario para diferentes rutas, lo que simplifica el proceso de enrutamiento de manera significativa. Con él, no tienes que usar objetos de ruta individuales o escribir declaraciones if-else anidadas en tu código. Todo lo que tienes que hacer es crear un módulo y añadir la importación del enrutador para utilizarlo con tu aplicación.
+
+Reach-router en React - ¿Cómo usarlo e integrarlo?
+Reach-router es un paquete de enrutamiento que se puede adjuntar a la aplicación React. Ayuda a los desarrolladores a crear UIs escalables con varios componentes sin preocuparse del enrutamiento.
+
+Según la documentación oficial, “React-router es una biblioteca de enrutamiento completa para React”. Pero en caso de que no estés usando React en tu proyecto, reach-router proporciona una excelente opción para el enrutamiento en tu aplicación. Reach-router ha sido fuertemente probado por el equipo de desarrollo de Facebook.
+
+Usar Reach Router en tu aplicación es bastante sencillo. Solo tienes que instalarlo a través de npm, crear rutas y configurarlas a través de archivos de configuración o con el middleware redux al construir la aplicación.
